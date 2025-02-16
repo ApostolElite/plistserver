@@ -1,0 +1,6 @@
+{
+  "address": "127.0.0.1:80",
+  "useSSL": true,
+  "certPath": "./cert.pem",
+  "keyPath": "./key.pem"
+}
