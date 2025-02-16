@@ -1,4 +1,4 @@
-# plistServer-free
+# PlistServer
 A Node.js server used for QuickSign to serve install manifests under HTTPS (as required by iOS)
 
 Rewriten on node js
