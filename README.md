@@ -8,7 +8,7 @@ This is licensed under the GPLv3 so you are free to use this anywhere (as long a
 ## How to run
 1. Make sure you have [Node JS](https://nodejs.org/en/download) installed.
 2. Edit config.js or use default
-3. Go into the server's cloned directory, and simply run `node plistserver.js`
+3. simply run `node plistserver.js`
 
 ## Credits
 Im rewriten on node js
